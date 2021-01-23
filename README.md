@@ -1,8 +1,7 @@
 #  Card em Glassmorphism
 
-<video width="1280" height="720" controls autoplay loop>
-    <source type='video/mp4' src='video.mp4'>
-</video>
+<img src="images/screen.jpg"/>
+
 
 - Exercitando flex-container, glassmorphism, transition, animation;
 
@@ -11,3 +10,4 @@
 - Vi recentemente alguns projetos no LinkedIn utilizando essa animação via VanillaJS, que é basicamente JavaScrirpt puro, e decidi adicionar no meu projeto também, confesso que eu não curto muito esse efeito, mas foi legal ver funcionando; 
 
   
+
